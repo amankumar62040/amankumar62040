@@ -53,6 +53,20 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<table>  
+  <tr>  
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amankumar62040&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"></td>  
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar62040&theme=dark&hide_border=true" alt="GitHub Streak"></td>  
+  </tr>  
+  <tr>  
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar62040&layout=compact&theme=dark&hide_border=true" alt="Top Languages"></td>  
+  </tr>  
+</table>  
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <picture>
@@ -61,3 +75,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/amankumar62040/amankumar62040/output/github-snake.svg" />
 </picture>
 
+---
+
+## ✍️ Dev Quote  
+_"code- Relax, it's only 0s and 1s !"_  
+
+---
+
+## 🌐 Connect with Me  
+- GitHub: [amankumar62040](https://github.com/amankumar62040)  
+- LinkedIn: [Aman Kumar](https://linkedin.com/in/sonu-gupta-443803231)  
