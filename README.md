@@ -53,6 +53,8 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankumar62040/amankumar62040/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankumar62040/amankumar62040/output/github-snake.svg" />
