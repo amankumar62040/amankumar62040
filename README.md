@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 👋🏼 Hello World! I'm AMANN KUMAR, a SOFTWARE DEVELOPER
+# 👋🏼 Hello World! I'm AMANN KUMAR, A SOFTWARE DEVELOPER
 
 🛜 Currently working on my own [Project](https://educational-resource.vercel.app/)  
 👨🏼‍🎓 Pursuing B.Tech in Computer Science & Engineering at CGC Landran  
