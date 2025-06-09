@@ -84,4 +84,4 @@ _"code- Relax, it's only 0s and 1s !"_
 
 ## 🌐 Connect with Me  
 - GitHub: [amankumar62040](https://github.com/amankumar62040)  
-- LinkedIn: [Aman Kumar](https://linkedin.com/in/sonu-gupta-443803231)  
+- LinkedIn: [Aman Kumar](https://www.linkedin.com/in/aman-kumar-7b0b5828a/)  
