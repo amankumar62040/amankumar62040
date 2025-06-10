@@ -5,7 +5,7 @@
 🛜 Currently working on my own [Project](https://educational-resource.vercel.app/)  
 👨🏼‍🎓 Pursuing B.Tech in Computer Science & Engineering at CGC Landran  
 👨🏼‍💻 Active Web Developer since 2023  
-🎬 Creator at my YouTube channel *animovser*
+
 
 ---
 
